@@ -20,4 +20,8 @@
 	<ItemGroup>
 	  <Folder Include="Abstract\" />
 	</ItemGroup>
+
+	<ItemGroup>
+	  <None Include="..\.editorconfig" Link=".editorconfig" />
+	</ItemGroup>
 </Project>
